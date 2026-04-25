@@ -16,14 +16,14 @@ No busco solo programar, busco entender cómo romper y mejorar lo que otros cons
 
 ---
 
-🛠️ Tecnologías
+## 🛠️ Tecnologías
 
-"Python" (https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-"Linux" (https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-"SQL" (https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql)
-"HTML" (https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
-"CSS" (https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
-"JavaScript" (https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 
 ---
 
@@ -35,24 +35,14 @@ No busco solo programar, busco entender cómo romper y mejorar lo que otros cons
 
 ---
 
-🎮 Mini Proyecto
-
-🧩 Tetris en JavaScript
-Juego clásico desarrollado para practicar lógica, manejo del DOM y eventos.
+🎮 Mini Proyectos
 
 🔗 Próximamente disponible en repositorio
 
----
-
-📊 Estadísticas
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ediiazz23&show_icons=true&theme=dark)
-
----
+--
 
 📬 Contacto
-https://github.com/Ediiazz23
-📧 Email: eliandiazdev@proton.me
+[![GitHub](https://img.shields.io/badge/GitHub-Ediiazz23-111?style=for-the-badge&logo=github)](https://github.com/Ediiazz23)
 
 💬 Disponible para colaborar, aprender y explorar el mundo de la ciberseguridad.
 
