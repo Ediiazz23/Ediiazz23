@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff88&height=250&section=header&text=Elián%20Diaz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Ethical%20Hacking&descAlignY=60"/>
+</p>
+
 # 👋 Bienvenido a mi perfil
 
 🙋🏻‍♂️Soy Elián Díaz.
