@@ -4,8 +4,6 @@
 
 # 👋 Bienvenido a mi perfil
 
-🙋🏻‍♂️Soy Elián Díaz.
-
 👨🏻‍💻 Me enfoco en entender cómo funcionan realmente los sistemas, identificar vulnerabilidades y desarrollar soluciones prácticas.
 
 🔗 En este perfil comparto proyectos, herramientas y mi progreso en el mundo de la ciberseguridad.
