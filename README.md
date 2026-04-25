@@ -1,18 +1,10 @@
- Elián Díaz
+# 👋 Bienvenido a mi perfil
 
-💻 Apasionado por la ciberseguridad ofensiva
-🔍 Explorando cómo funcionan (y fallan) los sistemas
-⚡ Aprendiendo a romper para construir mejor
+🙋🏻‍♂️Soy Elián Díaz.
 
----
+👨🏻‍💻 Me enfoco en entender cómo funcionan realmente los sistemas, identificar vulnerabilidades y desarrollar soluciones prácticas.
 
-🧠 Acerca de mí
-
-Me interesa entender cómo funcionan realmente los sistemas, no solo usarlos.
-
-Me enfoco en encontrar vulnerabilidades, automatizar tareas y aprender haciendo en entornos reales.
-
-No busco solo programar, busco entender cómo romper y mejorar lo que otros construyen.
+🔗 En este perfil comparto proyectos, herramientas y mi progreso en el mundo de la ciberseguridad.
 
 ---
 
