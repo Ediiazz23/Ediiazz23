@@ -39,8 +39,7 @@ No busco solo programar, busco entender cómo romper y mejorar lo que otros cons
 
 ""ProtonMail" (https://img.shields.io/badge/ProtonMail-eliandiazdev%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)" (mailto:eliandiazdev@proton.me)
 
-📧 Email directo: eliandiazdev@proton.me
-
+📧 eliandiazdev@proton.me
 ---
 
 «"La seguridad no es confiar en que algo funcione, es saber cómo puede fallar."»
