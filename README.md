@@ -1,4 +1,6 @@
-👋 Elián Díaz
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6D4AFF&size=28&center=true&vCenter=true&width=600&lines=Bienvenidos...;Soy Elián Díaz;Ciberseguridad en proceso..." />
+</p>👋 Elián Díaz
 
 💻 Apasionado por la ciberseguridad ofensiva
 🔍 Explorando cómo funcionan (y fallan) los sistemas
@@ -16,35 +18,30 @@ No busco solo programar, busco entender cómo romper y mejorar lo que otros cons
 
 ---
 
-## 🛠️ Tecnologías
+🛠️ Tecnologías
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+"Python" (https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+"Linux" (https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+"SQL" (https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql)
+"HTML" (https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
+"CSS" (https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
+"JavaScript" (https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 
 ---
 
 🚀 Proyectos
 
-- 🔐 Scanner básico de vulnerabilidades web (en progreso)
-- 🐍 Scripts de automatización en Python
-- 🌐 Página web personal (en desarrollo)
+🔜 Próximamente proyectos en repositorio
 
 ---
 
-🎮 Mini Proyectos
-
-🔗 Próximamente disponible en repositorio
-
---
-
 📬 Contacto
-[![GitHub](https://img.shields.io/badge/GitHub-Ediiazz23-111?style=for-the-badge&logo=github)](https://github.com/Ediiazz23)
 
-💬 Disponible para colaborar, aprender y explorar el mundo de la ciberseguridad.
+""GitHub" (https://img.shields.io/badge/GitHub-Ediiazz23-111?style=for-the-badge&logo=github)" (https://github.com/Ediiazz23)
+
+""ProtonMail" (https://img.shields.io/badge/ProtonMail-eliandiazdev%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)" (mailto:eliandiazdev@proton.me)
+
+📧 Email directo: eliandiazdev@proton.me
 
 ---
 
