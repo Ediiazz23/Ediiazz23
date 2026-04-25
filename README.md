@@ -33,13 +33,11 @@ No busco solo programar, busco entender cómo romper y mejorar lo que otros cons
 
 ---
 
-📬 Contacto
+## 📬 Contacto
 
-""GitHub" (https://img.shields.io/badge/GitHub-Ediiazz23-111?style=for-the-badge&logo=github)" (https://github.com/Ediiazz23)
+[![GitHub](https://img.shields.io/badge/GitHub-Ediiiazz23-111?style=for-the-badge&logo=github)](https://github.com/Ediiiazz23)
 
-""ProtonMail" (https://img.shields.io/badge/ProtonMail-eliandiazdev%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)" (mailto:eliandiazdev@proton.me)
-
-📧 eliandiazdev@proton.me
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-eliandiazdev%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:eliandiazdev@proton.me)
 ---
 
 «"La seguridad no es confiar en que algo funcione, es saber cómo puede fallar."»
