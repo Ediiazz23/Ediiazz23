@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visitas-10.482-blue?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
