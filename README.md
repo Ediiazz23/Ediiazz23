@@ -6,10 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff88&height=250&section=header&text=Elián%20Diaz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Ethical%20Hacking&descAlignY=60"/>
 </p>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=root%40eliandiaz%3A~%24+whoami;Cybersecurity+Student;Digital+Forensics;Ethical+Hacking+Enthusiast" />
-</h1>
-
 # 👋 Bienvenido a mi perfil
 
 👨🏻‍💻 Me enfoco en entender cómo funcionan realmente los sistemas, identificar vulnerabilidades y desarrollar soluciones prácticas.
@@ -65,3 +61,7 @@
 ---
 
 «"La seguridad no es confiar en que algo funcione, es saber cómo puede fallar."»
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=root%40eliandiaz%3A~%24+whoami;Cybersecurity+Student;Digital+Forensics;Ethical+Hacking+Enthusiast" />
+</h1>
